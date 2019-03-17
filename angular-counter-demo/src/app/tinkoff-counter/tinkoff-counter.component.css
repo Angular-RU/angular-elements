@@ -1,0 +1,16 @@
+:host {
+  position: relative;
+  font-family: sans-serif;
+}
+
+button {
+  width: 60px;
+  height: 30px;
+  margin: 20px;
+  background: none;
+  border: 1px solid black;
+}
+
+span {
+  font-weight: bold;
+}
